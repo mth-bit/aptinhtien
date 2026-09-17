@@ -4,7 +4,7 @@ st.image("logo.jpg")
 # CẤU HÌNH
 # =========================================================
 st.set_page_config(
-    page_title="Tính tiền quán ăn",
+    page_title="trân lét",
     page_icon="🍜",
     layout="wide"
 )
