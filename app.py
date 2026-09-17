@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🍜 TÍNH TIỀN HÀNG QUÁN")
+st.title("🍜 trân lét")
 st.caption("Nhập món ăn, số lượng và đơn giá để tính tổng tiền khách phải thanh toán.")
 
 # =========================================================
